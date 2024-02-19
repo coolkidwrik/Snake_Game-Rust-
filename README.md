@@ -1,4 +1,5 @@
-# Snake_Game-Rust-
+# Snake Game
+## coded in rust 🦀 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
